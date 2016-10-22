@@ -1,2 +1,1 @@
-readme 
-"ammendment" 
+amendment 
